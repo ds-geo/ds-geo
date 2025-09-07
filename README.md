@@ -1,8 +1,8 @@
-# Hi, I'm Damita Sara George 👋
+# Hi, I'm Damita Sara George 🤗
 
-🎓 **Computer Science @ Cornell University '27**  
+🏫 **Computer Science @ Cornell University '27**  
 📍 Pleasanton, CA  
-📫 [Email](mailto:damitasg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/damitasg/) | [Portfolio](https://ds-geo.github.io)
+💌 [Email](mailto:damitasg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/damitasg/) | [Portfolio](https://ds-geo.github.io)
 
 ---
 
