@@ -2,7 +2,7 @@
 
 🏫 **Computer Science @ Cornell University '27**  
 📍 Pleasanton, CA  
-💌 [Email](mailto:damitasg@gmail.com) | [LinkedIn](www.linkedin.com/in/damita-sara-george) | [Portfolio](https://ds-geo.github.io)
+💌 [Email](mailto:damitasg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/damita-sara-george) | [Portfolio](https://ds-geo.github.io)
 
 ---
 
